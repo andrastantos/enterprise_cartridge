@@ -2598,7 +2598,7 @@
 		(uuid "fb52a626-33fd-487e-a33e-8525a4255007")
 	)
 	(no_connect
-		(at 240.03 76.2)
+		(at 252.73 76.2)
 		(uuid "fc73db82-fbcc-4aae-90c5-96342eebe7b3")
 	)
 	(wire
@@ -3303,7 +3303,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 76.2) (xy 270.51 76.2)
+			(xy 222.25 76.2) (xy 240.03 76.2)
 		)
 		(stroke
 			(width 0)
@@ -3380,6 +3380,26 @@
 			(type default)
 		)
 		(uuid "fec7961b-bfb5-426e-a5eb-7347a9e189e8")
+	)
+	(text "CART"
+		(exclude_from_sim no)
+		(at 274.574 75.438 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "61e313d9-9528-4c98-8d49-ba115a1aea3e")
+	)
+	(text "CART&RD"
+		(exclude_from_sim no)
+		(at 276.606 72.898 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a1439159-7d73-4207-817f-3495828197fe")
 	)
 	(label "A15"
 		(at 259.08 78.74 0)
@@ -3622,7 +3642,7 @@
 		(uuid "83f5b675-5c79-4f83-9845-d16b5f0b14e7")
 	)
 	(label "D5"
-		(at 259.08 76.2 0)
+		(at 227.33 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
